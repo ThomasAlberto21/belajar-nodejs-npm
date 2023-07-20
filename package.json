@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Belajar NodeJS NPM",
   "homepage": "Thomas Alberto",
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "https://github.com/ThomasAlberto21/belajar-nodejs-npm"
