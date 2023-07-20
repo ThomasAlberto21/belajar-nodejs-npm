@@ -2,6 +2,11 @@
   "name": "belajar-nodejs-npm",
   "version": "1.0.0",
   "description": "Belajar NodeJS NPM",
+  "homepage": "Thomas Alberto",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ThomasAlberto21/belajar-nodejs-npm"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
