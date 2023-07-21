@@ -23,6 +23,6 @@
   "author": "Thomas Alberto",
   "license": "ISC",
   "dependencies": {
-    "lodash": "^4.17.21"
+    "lodash": "4.15.x"
   }
 }
